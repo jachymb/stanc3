@@ -79,9 +79,6 @@ Operators
 
 Built-in Functions
 ----------------------------------------------------------------------
-* if (f == lmultiply(x, y))
-  multiply_log(x', y')
-
 * if (f == lchoose(x, y))
   binomial_coefficient_log(x', y')
 
